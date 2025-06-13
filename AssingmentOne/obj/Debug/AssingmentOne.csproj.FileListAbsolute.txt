@@ -1,0 +1,7 @@
+C:\Users\Sasindu\source\repos\AssingmentOne\bin\Debug\AssingmentOne.exe.config
+C:\Users\Sasindu\source\repos\AssingmentOne\bin\Debug\AssingmentOne.exe
+C:\Users\Sasindu\source\repos\AssingmentOne\bin\Debug\AssingmentOne.pdb
+C:\Users\Sasindu\source\repos\AssingmentOne\obj\Debug\AssingmentOne.csproj.AssemblyReference.cache
+C:\Users\Sasindu\source\repos\AssingmentOne\obj\Debug\AssingmentOne.csproj.CoreCompileInputs.cache
+C:\Users\Sasindu\source\repos\AssingmentOne\obj\Debug\AssingmentOne.exe
+C:\Users\Sasindu\source\repos\AssingmentOne\obj\Debug\AssingmentOne.pdb
