@@ -1,0 +1,7 @@
+C:\Users\Sasindu\source\repos\EqualityChecker\bin\Debug\EqualityChecker.exe.config
+C:\Users\Sasindu\source\repos\EqualityChecker\bin\Debug\EqualityChecker.exe
+C:\Users\Sasindu\source\repos\EqualityChecker\bin\Debug\EqualityChecker.pdb
+C:\Users\Sasindu\source\repos\EqualityChecker\obj\Debug\EqualityChecker.csproj.AssemblyReference.cache
+C:\Users\Sasindu\source\repos\EqualityChecker\obj\Debug\EqualityChecker.csproj.CoreCompileInputs.cache
+C:\Users\Sasindu\source\repos\EqualityChecker\obj\Debug\EqualityChecker.exe
+C:\Users\Sasindu\source\repos\EqualityChecker\obj\Debug\EqualityChecker.pdb
