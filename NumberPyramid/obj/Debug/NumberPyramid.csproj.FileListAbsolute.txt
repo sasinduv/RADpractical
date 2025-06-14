@@ -1,0 +1,7 @@
+C:\Users\Sasindu\source\repos\NumberPyramid\bin\Debug\NumberPyramid.exe.config
+C:\Users\Sasindu\source\repos\NumberPyramid\bin\Debug\NumberPyramid.exe
+C:\Users\Sasindu\source\repos\NumberPyramid\bin\Debug\NumberPyramid.pdb
+C:\Users\Sasindu\source\repos\NumberPyramid\obj\Debug\NumberPyramid.csproj.AssemblyReference.cache
+C:\Users\Sasindu\source\repos\NumberPyramid\obj\Debug\NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Sasindu\source\repos\NumberPyramid\obj\Debug\NumberPyramid.exe
+C:\Users\Sasindu\source\repos\NumberPyramid\obj\Debug\NumberPyramid.pdb
