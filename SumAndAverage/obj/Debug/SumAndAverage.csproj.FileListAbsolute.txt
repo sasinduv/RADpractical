@@ -1,0 +1,7 @@
+C:\Users\Sasindu\source\repos\SumAndAverage\bin\Debug\SumAndAverage.exe.config
+C:\Users\Sasindu\source\repos\SumAndAverage\bin\Debug\SumAndAverage.exe
+C:\Users\Sasindu\source\repos\SumAndAverage\bin\Debug\SumAndAverage.pdb
+C:\Users\Sasindu\source\repos\SumAndAverage\obj\Debug\SumAndAverage.csproj.AssemblyReference.cache
+C:\Users\Sasindu\source\repos\SumAndAverage\obj\Debug\SumAndAverage.csproj.CoreCompileInputs.cache
+C:\Users\Sasindu\source\repos\SumAndAverage\obj\Debug\SumAndAverage.exe
+C:\Users\Sasindu\source\repos\SumAndAverage\obj\Debug\SumAndAverage.pdb
