@@ -1,0 +1,7 @@
+C:\Users\Sasindu\source\repos\DeleteDuplicate\bin\Debug\DeleteDuplicate.exe.config
+C:\Users\Sasindu\source\repos\DeleteDuplicate\bin\Debug\DeleteDuplicate.exe
+C:\Users\Sasindu\source\repos\DeleteDuplicate\bin\Debug\DeleteDuplicate.pdb
+C:\Users\Sasindu\source\repos\DeleteDuplicate\obj\Debug\DeleteDuplicate.csproj.AssemblyReference.cache
+C:\Users\Sasindu\source\repos\DeleteDuplicate\obj\Debug\DeleteDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\Sasindu\source\repos\DeleteDuplicate\obj\Debug\DeleteDuplicate.exe
+C:\Users\Sasindu\source\repos\DeleteDuplicate\obj\Debug\DeleteDuplicate.pdb
